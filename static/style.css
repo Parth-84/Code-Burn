@@ -1,0 +1,57 @@
+/* .footerc{
+    width: 100%;
+    text-align: center;
+
+    background-color: #343A40;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: absolute;
+}
+.footerc p{
+    color: #fff;
+} */
+@media only screen and (max-width:1400px ) {
+   .caroHeight{
+       height:55vh;
+   }
+  }
+@media only screen and (max-width: 968px) {
+    .caroHeight{
+        height:60vh;
+    }
+   }
+@media only screen and (max-width: 645px) {
+    .caroHeight{
+        height:44vh;
+    }
+   }
+@media only screen and (max-width: 468px) {
+    .caroHeight{
+        height:30vh;
+    }
+   }
+@media only screen and (max-width: 428px) {
+    .cardWidth{
+        width: 22rem;
+    }
+   }
+@media only screen and (max-width: 375px) {
+    .cardWidth{
+        width: 20rem;
+    }
+    .caroHeight{
+        width:100vw;
+    }
+   }
+@media only screen and (max-width: 300px) {
+    .cardWidth{
+        width: 14rem;
+    }
+   }
+
+/* .footerE{
+    max-width:100vw;
+    color: white;
+    text-align: center;
+} */
+
